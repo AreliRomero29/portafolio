@@ -23,7 +23,10 @@ Como se mencionó anteriormente el objetivo de esta página es demostrar los con
 
 ## Demo
 Puedes entrar en el siguiente vínculo, para poder ver mi trabajo de Diseño y Programación Web:
-<img src="" width="" height="">
+
+<img src="https://github.com/AreliRomero29/portafolio/blob/main/Imagenes/captura1.png" width="450">
+<img src="https://github.com/AreliRomero29/portafolio/blob/main/Imagenes/captura2.png" width="450">
+<img src="https://github.com/AreliRomero29/portafolio/blob/main/Imagenes/captura3.png" width="450">
 
 ## Tecnologías
 
