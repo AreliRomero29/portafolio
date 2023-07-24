@@ -22,7 +22,7 @@ En primer lugar, podemos definir como sitio responsivo o flexible a una página 
 Como se mencionó anteriormente el objetivo de esta página es demostrar los conocimientos adquiridos durante el bootcamp de *Technolochicas PRO* y que además sea una carta de presentación sobre lo que he logrado como desarrolladora web durante este bootcamp, además de conjuntarlo con mis conocimientos y habilidades de **Diseño Gráfico**; trabajo que igualmente se incluye en la página *(ilustración y fotografía)*
 
 ## Demo
-Puedes entrar en el siguiente vínculo, para poder ver mi trabajo de Diseño y Programación Web:
+Puedes entrar en el siguiente vínculo, para poder ver mi trabajo de Diseño y Programación Web: https://inspiring-marshmallow-3020a6.netlify.app/ 
 
 <img src="https://github.com/AreliRomero29/portafolio/blob/main/Imagenes/captura1.png" width="450">
 <img src="https://github.com/AreliRomero29/portafolio/blob/main/Imagenes/captura2.png" width="450">
