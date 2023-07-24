@@ -11,11 +11,10 @@ Incluye una descripción de su *perfil, proyectos y formas de contacto.*
 También contiene una sección de almacenamiento de archivos (imágenes) que nos permite modificar la imagen del perfil del desarrollador y con una animación desarrollada por medio de JavaScript.
 
 ## ÍNDICE
-* [Acerca del proyecto]()
-* [Demo]()
-* [Tecnologías]()
-* [Idioma]()
-* [Contacto]()
+* [Acerca del proyecto](https://github.com/AreliRomero29/portafolio#acerca-del-proyecto)
+* [Demo](https://github.com/AreliRomero29/portafolio#demo)
+* [Tecnologías](https://github.com/AreliRomero29/portafolio#tecnolog%C3%ADas)
+* [Contacto](https://github.com/AreliRomero29/portafolio#contacto)
 
 ## Acerca del proyecto
 En primer lugar, podemos definir como sitio responsivo o flexible a una página web que se adapta a cualquier tamaño de pantalla. Esta adaptación no es solo una cuestión técnica, sino que también influye en la experiencia del usuario en el sitio web (y en la satisfacción de su consumo en la misma); y lo cual se logra en conjunto con la implementación de elementos en HTML, CSS y JavaScript.
@@ -40,7 +39,7 @@ Además se incluyen *Google Fonts*
 ### Idioma
 El texto de la página web está escrito en español, sin embargo las clases relacionadas con Bootstrap se incluyen en inglés.
 
-### Contacto
+## Contacto
 
 Desarrollado por: **[Areli Romero](https://www.instagram.com/an_rossemary/)** en Tecnolochicas PRO Summer Camp.
 
